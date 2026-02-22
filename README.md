@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Backend Engineer | System Design Focused<br>🧠 Core Interests<br><br>Backend architecture<br><br>Distributed systems fundamentals<br><br>Database design & indexing<br><br>API design & authorization models<br><br>Performance-aware engineering<br><br>🛠 Tech Stack<br><br>Node.js • Express • MongoDB • Mongoose • REST APIs • JWT • RBAC<br><br>⚡ Philosophy<br><br>Understand the system. Then build it cleanly.
+🚀 Backend Engineer | System Design Focused<br> <br>🧠 Core Interests<br><br>Backend architecture<br><br>Distributed systems fundamentals<br><br>Database design & indexing<br><br>API design & authorization models<br><br>Performance-aware engineering<br><br>🛠 Tech Stack<br><br>Node.js • Express • MongoDB • Mongoose • REST APIs • JWT • RBAC<br><br>⚡ Philosophy<br><br>Understand the system. Then build it cleanly.
 
 
 ## 🌐 Socials:
